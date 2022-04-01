@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM python:3.7-alpine
 MAINTAINER NextLogic Distribution Inc
 
 ENV PYTHONUNBUFFERED 1
